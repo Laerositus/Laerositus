@@ -21,6 +21,17 @@ Computer science student interested in game development and game design or back-
 - For business inquiries: jelle.stander@gmail.com
 - For personal inquires: laerositus@gmail.com
 
+### 🔭 Interests
+- Rust
+- Elixir
+- Discord Bot Automation
+
+<!--
+### 🌱 Currently developing
+- 
+-->
+
+
 <!--
 **Laerositus/Laerositus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
