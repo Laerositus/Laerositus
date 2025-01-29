@@ -28,6 +28,7 @@ Computer science student interested in game development and game design and back
 
 ### 🌱 Currently developing
 - Android development skills
+- Android application for Application Deployment
 
 
 <!--
