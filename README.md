@@ -11,6 +11,7 @@ Computer science student interested in game development and game design or back-
 - Visual Studio
 - IntelliJ
 - Git
+- Android
 
 ### 🚀 Notable Projects
 - Co-creator of UnEngine, a small, runtime-only 2D game engine: https://github.com/Systems-Programming-in-C-Minor/engine
