@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Computer science student interested in game development and game design or back-end development.
+Computer science student interested in game development and game design and back-end development.
 
 ### 🔧 Technologies & Tools
 - Java
