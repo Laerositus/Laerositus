@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-Computer science student interested in game development and game design and back-end development.
+BSc of CS interested in game development and game design and back-end development.
 
 ### 🔧 Technologies & Tools
 - Java
@@ -27,7 +26,7 @@ Computer science student interested in game development and game design and back
 - Discord Bot Automation
 
 ### 🌱 Currently developing
-- Android development skills
+- Android development
 - Mulitplatform (Android/Windows) application for Application Deployment
 
 
