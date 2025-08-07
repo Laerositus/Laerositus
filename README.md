@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-BSc of CS interested in game development and game design and back-end development.
+Software Engineer interested in game development and game design and back-end development.
 
 ### 🔧 Technologies & Tools
 - Java
