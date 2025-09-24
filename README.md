@@ -18,7 +18,7 @@ I am a Software Engineer interested in full stack development, game development,
 - Co-creator of UnEngine, a small, runtime-only 2D game engine: https://github.com/Systems-Programming-in-C-Minor/engine
 - Implementation of UnEngine via a simple racing game with support for local or networked multiplayer support, and controller support: https://github.com/Systems-Programming-in-C-Minor/game
 - API for SelfService application to make changes in access with is regulated by Azure Active Directory: https://gitlab.com/Laerositus/ssapi
-- Applcation Deployment Tool for Android and Windows in Compose Multiplatform, with a Backoffice Web Client interface made with Vue 3.
+- Application Deployment Tool for Android and Windows in Compose Multiplatform, with a Backoffice Web Client interface made with Vue 3.
 
 ### 📫 How to reach me:
 - For business inquiries: jelle.stander@gmail.com
