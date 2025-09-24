@@ -1,33 +1,37 @@
 ## Hi there 👋
 
-Software Engineer interested in game development and game design and back-end development.
+I am a Software Engineer interested in full stack development, game development, game design.
 
 ### 🔧 Technologies & Tools
 - Java
+- Kotlin 
 - C++
 - MSVC
 - GCC
 - Visual Studio
 - IntelliJ
 - Git
+- Android
+- Windows
 
 ### 🚀 Notable Projects
 - Co-creator of UnEngine, a small, runtime-only 2D game engine: https://github.com/Systems-Programming-in-C-Minor/engine
 - Implementation of UnEngine via a simple racing game with support for local or networked multiplayer support, and controller support: https://github.com/Systems-Programming-in-C-Minor/game
 - API for SelfService application to make changes in access with is regulated by Azure Active Directory: https://gitlab.com/Laerositus/ssapi
+- Applcation Deployment Tool for Android and Windows in Compose Multiplatform, with a Backoffice Web Client interface made with Vue 3.
 
 ### 📫 How to reach me:
 - For business inquiries: jelle.stander@gmail.com
 - For personal inquires: laerositus@gmail.com
 
-### 🔭 Interests
+### 🔭 Other Interests
 - Rust
 - Elixir
 - Discord Bot Automation
 
-### 🌱 Currently developing
-- Android development
-- Mulitplatform (Android/Windows) application for Application Deployment
+### 🌱 Currently in progress with
+- Cybersecurity (Database / Web Client protection)
+- Linux
 
 
 <!--
