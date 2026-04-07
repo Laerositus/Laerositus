@@ -15,6 +15,8 @@ I am a Software Engineer interested in full stack development, game development,
 - Windows
 
 ### 🚀 Notable Projects
+- Deployment Solutions for businesses.
+- RTOS firmware for ESP32, designed for space indicators, which can be easily integrated in any system.
 - Co-creator of UnEngine, a small, runtime-only 2D game engine: https://github.com/Systems-Programming-in-C-Minor/engine
 - Implementation of UnEngine via a simple racing game with support for local or networked multiplayer support, and controller support: https://github.com/Systems-Programming-in-C-Minor/game
 - API for SelfService application to make changes in access with is regulated by Azure Active Directory: https://gitlab.com/Laerositus/ssapi
