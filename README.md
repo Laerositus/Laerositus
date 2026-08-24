@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Software Engineer interested in full stack development, game development, game design.
+I am a Software Developer and Technical Lead interested in full stack development, game development, game design.
 
 ### 🔧 Technologies & Tools
 - Java
@@ -13,14 +13,15 @@ I am a Software Engineer interested in full stack development, game development,
 - Git
 - Android
 - Windows
+- Linux
 
 ### 🚀 Notable Projects
 - Deployment Solutions for businesses.
-- RTOS firmware for ESP32, designed for space indicators, which can be easily integrated in any system.
+- FreeRTOS firmware for ESP32, designed for space indicators, which can be easily integrated in any system.
 - Co-creator of UnEngine, a small, runtime-only 2D game engine: https://github.com/Systems-Programming-in-C-Minor/engine
 - Implementation of UnEngine via a simple racing game with support for local or networked multiplayer support, and controller support: https://github.com/Systems-Programming-in-C-Minor/game
-- API for SelfService application to make changes in access with is regulated by Azure Active Directory: https://gitlab.com/Laerositus/ssapi
-- Application Deployment Tool for Android and Windows in Compose Multiplatform, with a Backoffice Web Client interface made with Vue 3.
+- API for Self Service application to make changes in access with is regulated by Azure Active Directory: https://gitlab.com/Laerositus/ssapi
+- Application Deployment Tool for Android and Windows in Compose multi platform, with a back office Web Client interface made with Vue 3.
 
 ### 📫 How to reach me:
 - For business inquiries: jelle.stander@gmail.com
@@ -33,7 +34,6 @@ I am a Software Engineer interested in full stack development, game development,
 
 ### 🌱 Currently in progress with
 - Cybersecurity (Database / Web Client protection)
-- Linux
 
 
 <!--
