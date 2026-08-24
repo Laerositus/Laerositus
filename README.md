@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Software Developer and Technical Lead interested in full stack development, game development, game design.
+I am a Software Developer and Technical Lead interested in full stack development, game development, game design. I value quality documentation and clean code.
 
 ### 🔧 Technologies & Tools
 - Java
